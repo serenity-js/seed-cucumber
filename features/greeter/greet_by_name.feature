@@ -6,5 +6,6 @@ Feature: Greeting developers by name
 
   Scenario: The Basics
 
-     When James introduces himself as Bond, James Bond
+    Given James wants to interact with AngularJS apps
+     When he introduces himself as Bond, James Bond
      Then he should be greeted with "Hello Bond, James Bond!"
