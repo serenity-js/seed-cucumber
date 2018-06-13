@@ -2,7 +2,7 @@ import { protractor } from 'protractor';
 import { serenity } from 'serenity-js';
 import { Actor, BrowseTheWeb, Open } from 'serenity-js/lib/screenplay-protractor';
 
-import { CheckIfDisplayedMessage, EnterTheName } from '../../spec/greeter';
+import { CheckIfDisplayedMessage, EnterTheName } from '../../test/greeter';
 
 export = function steps() {
 
