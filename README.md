@@ -1,6 +1,6 @@
 # Serenity/JS Cucumber seed
 
-[![Build Status](https://travis-ci.com/serenity-js/seed-cucumber.svg?branch=master)](https://travis-ci.com/serenity-js/seed-cucumber)
+[![Build Status](https://travis-ci.com/serenity-js/seed-cucumber.svg?branch=master)](https://travis-ci.com/serenity-js/seed-cucumber) [![Greenkeeper badge](https://badges.greenkeeper.io/serenity-js/seed-cucumber.svg)](https://greenkeeper.io/)
 
 You can use this repository as a starting point for your [Serenity/JS](http://serenity-js.org)
 and [Cucumber](https://github.com/cucumber/cucumber-js) projects.
