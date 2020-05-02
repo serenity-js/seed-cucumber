@@ -1,3 +1,13 @@
+# This project has been deprecated
+
+This project used to help you get started with Serenity/JS 1.x, which is no longer maintained.
+
+If you'd like to migrate your existing Serenity/JS 1.x test suite to version 2.x of the framework, please follow the [official upgrade guide](https://serenity-js.org/handbook/integration/upgrading-to-serenity-js-2.html).
+
+To start a fresh Serenity/JS 2.x project, please use the [`serenity-js-cucumber-protractor-template`](https://github.com/serenity-js/serenity-js-cucumber-protractor-template).
+
+---
+
 # Serenity/JS Cucumber seed
 
 [![Build Status](https://travis-ci.com/serenity-js/seed-cucumber.svg?branch=master)](https://travis-ci.com/serenity-js/seed-cucumber)
